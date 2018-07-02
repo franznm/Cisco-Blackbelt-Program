@@ -6,5 +6,4 @@ while True:
         print("Correct!");   
         break
     elif number!= rd:
-        print("Wrong, try again!"); 
-    
+        print("Wrong, try again!");
